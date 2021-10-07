@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\obj\Debug\RA-MASTER.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\obj\Debug\RA_MASTER.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\obj\Debug\RA-MASTER.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\bin\Debug\RH-MASTER.exe
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\bin\Debug\RH-MASTER.pdb
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\obj\Debug\RH-MASTER.exe
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\obj\Debug\RH-MASTER.pdb
+C:\Users\User\Documents\SharpDevelop Projects\RA-MASTER\RA-MASTER\bin\Debug\RH-MASTER.exe.config
